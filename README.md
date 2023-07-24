@@ -1,0 +1,1 @@
+Notebook for running locally a LLama2 LLM with Langchain
